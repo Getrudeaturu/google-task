@@ -1,2 +1,2 @@
 # google-task
-https://gabbycool.github.io/google-task/
+https://getrudeaturu.github.io/google-task/
